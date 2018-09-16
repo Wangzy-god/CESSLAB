@@ -8,7 +8,7 @@
 
 2018-9-16-Su-3:00PM
 
-## Related
+## Related paper
 
 * Droidmarking: Resilient Software Watermarking for Impeding Android Application Repackaging
 
