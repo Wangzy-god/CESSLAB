@@ -7,3 +7,7 @@
 ## Time
 
 2018-10-13-Sa-2:30PM
+
+## Additional resources
+
+* http://esprima.org/demo/parse.html
