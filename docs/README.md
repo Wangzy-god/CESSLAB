@@ -1,8 +1,8 @@
 # CESSLAB
 
-Cyberspace Engineering Software Security Laboratory
+Cyberspace Engineering Software Security LABoratory
 
-西安电子科技大学网络有信息安全学院软件安全实验室
+西安电子科技大学网络与信息安全学院软件安全实验室
 
 活动记录见：
 
