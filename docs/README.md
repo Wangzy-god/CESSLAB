@@ -6,5 +6,5 @@ Cyberspace Engineering Software Security Laboratory
 
 活动记录见：
 
-* 2017-2018学年： https://skyel1u.github.io/CESSLAB/#/activity_2017
-* 2018-2019学年： https://skyel1u.github.io/CESSLAB/#/activity_2018
+* 2017-2018学年： [activity_2017](activity_2017)
+* 2018-2019学年： [activity_2018](activity_2018)

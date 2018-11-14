@@ -12,13 +12,18 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      repo: 'skyel1u/CESSLAB',
+      maxLevel: 4,
+      name: 'CESSLAB'
+    }
+  </script>
+  <script>
+    window.$docsify = {
       search: 'auto', // 默认值
-
       search: [
         '/',            // => /README.md
-        '/guide',       // => /guide.md
-        '/get-started', // => /get-started.md
-        '/zh-cn/',      // => /zh-cn/README.md
+        'activity_2018',
+        'activity_2017'
       ],
 
       // 完整配置参数
@@ -29,32 +34,19 @@
 
         // 支持本地化
         placeholder: {
-          '/zh-cn/': '搜索',
           '/': 'Type to search'
         },
 
         noData: 'No Results!',
 
-        // 支持本地化
-        noData: {
-          '/zh-cn/': '找不到结果',
-          '/': 'No Results'
-        },
-
         // 搜索标题的最大程级, 1 - 6
-        depth: 2
+        depth: 4
       }
     }
   </script>
   <script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
   <script src="//unpkg.com/docsify"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
-  <script>
-    window.$docsify = {
-      name: '',
-      repo: ''
-    }
-  </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
