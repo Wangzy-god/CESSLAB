@@ -59,8 +59,9 @@
 
 ## 2018-12-08
 
-* Topic: 安卓侧信道相关
-* ...
+* Topic: *SCAnDroid: Automated Side-Channel Analysis of Android APIs*, *ProcHarvester: Fully Automated Analysis of Procfs Side-Channel Leaks on Android*
+* https://rspreitzer.github.io/publications/proc/asiaccs-2018-paper-2.pdf
+* https://rspreitzer.github.io/publications/proc/wisec-2018-paper-2.pdf
 
 ### Time
 
