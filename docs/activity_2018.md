@@ -56,3 +56,12 @@
 ### Additional resources
 
 * https://github.com/uCFI-GATech
+
+## 2018-12-08
+
+* Topic: 安卓侧信道相关
+* ...
+
+### Time
+
+* 2018-12-08-Su-2:30PM
