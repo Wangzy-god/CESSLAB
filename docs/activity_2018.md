@@ -59,10 +59,18 @@
 
 ## 2018-12-08
 
-* Topic: *SCAnDroid: Automated Side-Channel Analysis of Android APIs*, *ProcHarvester: Fully Automated Analysis of Procfs Side-Channel Leaks on Android*
+* Topic: 
+  * *SCAnDroid: Automated Side-Channel Analysis of Android APIs*, 
+  * *ProcHarvester: Fully Automated Analysis of Procfs Side-Channel Leaks on Android*
+  * *Towards dynamically monitoring android applications on non-rooted devices in the wild*
 * https://rspreitzer.github.io/publications/proc/asiaccs-2018-paper-2.pdf
 * https://rspreitzer.github.io/publications/proc/wisec-2018-paper-2.pdf
+* https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5102&context=sis_research
 
 ### Time
 
 * 2018-12-08-Su-2:30PM
+
+### Additional resources
+
+* https://www.jianshu.com/p/4c905853711c
