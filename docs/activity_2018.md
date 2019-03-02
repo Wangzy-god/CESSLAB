@@ -74,3 +74,19 @@
 ### Additional resources
 
 * https://www.jianshu.com/p/4c905853711c
+
+
+## 2019-03-03
+
+* Topic: 
+  * *ANTI-PLUGIN: DON’T LET YOUR APP PLAY AS AN ANDROID PLUGIN*
+  * https://www.blackhat.com/docs/asia-17/materials/asia-17-Luo-Anti-Plugin-Don't-Let-Your-App-Play-As-An-Android-Plugin.pdf
+  * https://www.blackhat.com/docs/asia-17/materials/asia-17-Luo-Anti-Plugin-Don't-Let-Your-App-Play-As-An-Android-Plugin-wp.pdf
+
+### Time
+
+* 2019-03-03-Su-2:30PM
+
+### Additional resources
+
+blank now.
