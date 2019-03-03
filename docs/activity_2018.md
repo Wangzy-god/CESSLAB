@@ -80,8 +80,10 @@
 
 * Topic: 
   * *ANTI-PLUGIN: DON’T LET YOUR APP PLAY AS AN ANDROID PLUGIN*
-  * https://www.blackhat.com/docs/asia-17/materials/asia-17-Luo-Anti-Plugin-Don't-Let-Your-App-Play-As-An-Android-Plugin.pdf
-  * https://www.blackhat.com/docs/asia-17/materials/asia-17-Luo-Anti-Plugin-Don't-Let-Your-App-Play-As-An-Android-Plugin-wp.pdf
+    * https://www.blackhat.com/docs/asia-17/materials/asia-17-Luo-Anti-Plugin-Don't-Let-Your-App-Play-As-An-Android-Plugin.pdf
+    * https://www.blackhat.com/docs/asia-17/materials/asia-17-Luo-Anti-Plugin-Don't-Let-Your-App-Play-As-An-Android-Plugin-wp.pdf
+  * *ARMageddon: Cache Attacks on Mobile Devices*
+    * https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lipp.pdf
 
 ### Time
 
@@ -89,4 +91,4 @@
 
 ### Additional resources
 
-blank now.
+* Android 热修复技术详解：https://www.cnblogs.com/popfisher/p/8543973.html
