@@ -92,3 +92,4 @@
 ### Additional resources
 
 * Android 热修复技术详解：https://www.cnblogs.com/popfisher/p/8543973.html
+* Android 插件化技术合集: http://weishu.me/2016/01/28/understand-plugin-framework-overview/
