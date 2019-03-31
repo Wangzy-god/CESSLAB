@@ -107,6 +107,7 @@
 ### Additional resources
 
 * [Xmark Slides(Slides download link)](https://stuxidianeducn-my.sharepoint.com/:p:/g/personal/jliu_233_stu_xidian_edu_cn/Eaz0u_TefS1CvaDpN8w3GgYBTXvmMzsvhwGkDDs5G83KWQ?e=n7vKMh)
+  * `https://stuxidianeducn-my.sharepoint.com/:p:/g/personal/jliu_233_stu_xidian_edu_cn/Eaz0u_TefS1CvaDpN8w3GgYBTXvmMzsvhwGkDDs5G83KWQ?e=n7vKMh`
 * [Linear Obfuscation to combat symbolic execution(paper download link)](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=3004&context=sis_research)
 * ...
 
