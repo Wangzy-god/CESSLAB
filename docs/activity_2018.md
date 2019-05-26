@@ -126,3 +126,16 @@
 
 * [TiggerScope]
   * Paper: `https://ieeexplore.ieee.org/document/7546513/`
+
+## 2019-05-26
+
+* Topic :
+  * *“Tipped Off by Your Memory Allocator”: Device-Wide User Activity Sequencing from Android Memory Images*
+  
+### Time
+
+* 2019-05-26-Su-2:30PM
+
+### Additional resources
+
+* blank now.
